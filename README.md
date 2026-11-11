@@ -35,6 +35,8 @@ cd /Users/momshadabdullah/Documents/ChatGPT/ast
 python3 src/test_driver.py
 ```
 
+You can instead press **Cmd+Shift+B** and choose **Run result-system tests**. The included VS Code task runs the same command.
+
 4. Take a screenshot showing the full terminal table and the `Summary: 5/5 test cases passed` line. For the report, also show the Explorer with `src/result_system.py` and `src/test_driver.py` visible.
 
 ## Why Spiral model
